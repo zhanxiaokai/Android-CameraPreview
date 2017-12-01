@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CameraRecorderPreview</string>
+    <string name="title">Camera Preview Demo!</string>
+    <string name="start_preview">Start Preview</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
